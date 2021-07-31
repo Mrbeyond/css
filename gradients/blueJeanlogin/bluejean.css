@@ -1,0 +1,8 @@
+body{
+  min-height: 100vmin;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(180deg, rgba(13,83,205, 0.9), rgba(34,145,227, 0)),
+  linear-gradient(120deg, rgba(13,83,205, 1), rgba(34,145,227, 0.8) 40%),
+  linear-gradient(230deg, rgba(65, 25, 200, 0.9) 35%, rgba(255,255,255,0) 30%),
+  linear-gradient(-35deg, rgba(25, 25, 205, 0.5) 40%, rgba(255,255,255,0) 31%);
+}
